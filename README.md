@@ -25,7 +25,7 @@ JavaScript, NodeJS, Express, React, MongoDB, Material UI, Mongoose, Heroku, Netl
 
 ## How to Run
 
-Follow the steps given in the respective backend and frontend repos hosted on GitLab
+Follow the steps given in the respective backend and frontend repos hosted on GitLab or find the instructions in the respective folders.
 
 - [Backend on GitLab](https://gitlab.com/muditmahajan21/one-reader-for-all-backend)
 - [Frontend on GitLab](https://gitlab.com/muditmahajan21/one-reader-for-all-frontend)
