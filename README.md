@@ -1,8 +1,8 @@
 # One Reader For ALL - MERN Full Stack 
 
 ## Deployed on
-- ![Heroku](https://one-reader-for-all.herokuapp.com/)
-- ![Netlify](https://62682dbfbedc1d0008f78336--joyful-meerkat-03172c.netlify.app/)
+- [Heroku](https://one-reader-for-all.herokuapp.com/)
+- [Netlify](https://62682dbfbedc1d0008f78336--joyful-meerkat-03172c.netlify.app/)
 
 ## Tech Stack
 JavaScript, NodeJS, Express, React, MongoDB, Material UI, Mongoose, Heroku, Netlify
