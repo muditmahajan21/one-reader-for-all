@@ -1,7 +1,7 @@
 # One Reader For ALL - MERN Full Stack 
 
 ## Deployed on
-- [Heroku](https://one-reader-for-all.herokuapp.com/)
+- [Cyclic](https://one-reader-for-all-backend.cyclic.app/)
 - [Netlify](https://one-reader-for-all.netlify.app/)
 
 ## Tech Stack
